@@ -1,0 +1,7 @@
+#big-container {
+  display: flex;
+}
+
+.demo-calendar {
+  flex: 1 1 auto;
+}
